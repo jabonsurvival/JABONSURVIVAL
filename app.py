@@ -314,11 +314,14 @@ st.markdown("""
     <h4 style="color: #f8fafc; margin-bottom: 14px; font-weight: 600;">Ikuti Media Sosial Kami</h4>
     <div style="display: flex; justify-content: center; gap: 24px; flex-wrap: wrap; margin-bottom: 20px;">
         <a href="https://www.instagram.com/jabonsurvival/" target="_blank" style="color: #fbbf24; text-decoration: none; font-weight: 500; font-size: 0.95rem; display: flex; align-items: center; gap: 6px;">
-            📸 Instagram: @jabonsurvival
+            🅾 Instagram: @jabonsurvival
         </a>
         <a href="https://www.tiktok.com/@jabonsurvival_?_r=1&_t=ZS-99Ws1FncF6N" target="_blank" style="color: #38bdf8; text-decoration: none; font-weight: 500; font-size: 0.95rem; display: flex; align-items: center; gap: 6px;">
-            🎵 TikTok: @jabonsurvival_
+            ᕷ TikTok: @jabonsurvival_
         </a>
+        <a href="https://www.youtube.com/@muda-mudijabonsurvivalrw1149" target="_blank" style="color: #38bdf8; text-decoration: none; font-weight: 500; font-size: 0.95rem; display: flex; align-items: center; gap: 6px;">
+                    ▶ YouTube: @muda mudi jabonsurvival
+        </a>          
     </div>
 </div>
 
